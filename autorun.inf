@@ -1,7 +1,0 @@
-[autorun]
-defaulticon=AdultCCRN2020\AdultCCRNReviewCourse\AdultCCRN2020.ico
-icon=AdultCCRN2020\AdultCCRNReviewCourse\AdultCCRN2020.ico
-shellexecute=AdultCCRN2020\AdultCCRNReviewCourse\AdultCCRN2020_Start_Here.htm
-shell=runit
-shell\runit\command=explorer.exe AdultCCRN2020\AdultCCRNReviewCourse\AdultCCRN2020_Start_Here.htm
-shell\runit=AdultCCRN2020_Start_Here
